@@ -1,0 +1,6 @@
+folium==0.19.5
+pandas>=2.0.0
+pillow>=10.0.0
+pyinstaller==6.16.0
+branca>=0.6.0
+jinja2>=3.0.0

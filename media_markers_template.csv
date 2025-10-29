@@ -1,0 +1,11 @@
+title,description,media_path,lat,lon,icon,color
+"Crime Scene - Entry Point","Forced entry, north door. Photo taken 10:45 AM on 10/27/2025",C:/Evidence/Photos/scene_entry.jpg,40.7589,-73.9851,camera,red
+"Crime Scene - Interior","Living room, evidence markers visible",C:/Evidence/Photos/scene_interior.jpg,40.7589,-73.9851,camera,red
+"Security Camera Footage","Shows suspect vehicle arrival at 2:30 PM",C:/Evidence/Videos/security_cam_main.mp4,40.7590,-73.9852,video,blue
+"Witness Photo","Provided by neighbor, timestamp 2:25 PM",C:/Evidence/Photos/witness_photo.jpg,40.7588,-73.9850,camera,orange
+"Exit Route Photo","Back alley, tire tracks visible",C:/Evidence/Photos/exit_route.jpg,40.7587,-73.9849,camera,red
+"Cell Tower Photo","Tower #2341, north sector",C:/Evidence/Photos/tower_2341.jpg,40.7595,-73.9855,camera,purple
+"Surveillance Video - Store","Store camera shows suspect at 2:00 PM",https://example.com/videos/store_surveillance.mp4,40.7585,-73.9848,video,blue
+"Evidence Close-up","Item #45, found at scene",C:/Evidence/Photos/evidence_45.jpg,40.7589,-73.9851,image,orange
+"Aerial Photo","Drone footage overview of area",C:/Evidence/Photos/aerial_view.jpg,40.7590,-73.9850,camera,green
+"Vehicle Photo","Suspect vehicle captured on traffic cam",C:/Evidence/Photos/vehicle_plate.jpg,40.7592,-73.9853,camera,red
