@@ -2,6 +2,10 @@
 
 An interactive map application that visualizes media files (images/videos) and location data with timeline navigation and accuracy visualization.
 
+A local web server allows access to image and media files in a "Media" folder. 
+
+The output is an exe file which starts the local media web server and opens a browser window to show an HTML map.
+
 ## Features
 
 - 📍 Interactive map with clustered markers
@@ -120,6 +124,7 @@ Required columns:
 - Filter by event type (ATT/Ankle Monitor)
 - Time range filtering with date pickers
 - Search by title/description
+
 
 
 
