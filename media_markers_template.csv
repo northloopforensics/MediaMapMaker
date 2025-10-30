@@ -1,16 +1,11 @@
-title,description,media_path,lat,lon,icon,color
-"Crime Scene - Entry Point","Forced entry, north door. Photo taken 10:45 AM on 10/27/2025",C:/Evidence/Photos/scene_entry.jpg,40.7589,-73.9851,camera,red
-Address,latitude,longitude,title,description,media_path,icon,color,date,time
-"123 Main St, City, State",40.7128,-74.0060,"Front Door Camera","Security camera footage from front entrance","Media/Circle K Wiggins Video/Front Door.mjp",camera,blue,2024-07-02,07:18:47
-"456 Oak Ave, City, State",40.7580,-73.9855,"Backyard Photo","Photo of backyard area","Media/Body Camera Photos/backyard_001.jpg",photo,green,2024-07-02,08:30:15
-"789 Pine Rd, City, State",40.7489,-73.9680,"Store Video","Store surveillance video clip","Media/Taco Bell Video/store_view.mp4",video,red,2024-07-02,09:45:22
-"321 Elm St, City, State",40.7614,-73.9776,"Parking Lot Camera","Parking lot security footage","Media/Auto Plus Cameras/parking_cam_01.avi",camera,purple,2024-07-02,10:15:33
-"654 Maple Dr, City, State",40.7549,-73.9840,"Outdoor Scene","Photo of outdoor area","Media/417 S 11th Ave/Folder 1/images000/image_001.jpg",photo,orange,2024-07-02,11:20:10
-"Security Camera Footage","Shows suspect vehicle arrival at 2:30 PM",C:/Evidence/Videos/security_cam_main.mp4,40.7590,-73.9852,video,blue
-"Witness Photo","Provided by neighbor, timestamp 2:25 PM",C:/Evidence/Photos/witness_photo.jpg,40.7588,-73.9850,camera,orange
-"Exit Route Photo","Back alley, tire tracks visible",C:/Evidence/Photos/exit_route.jpg,40.7587,-73.9849,camera,red
-"Cell Tower Photo","Tower #2341, north sector",C:/Evidence/Photos/tower_2341.jpg,40.7595,-73.9855,camera,purple
-"Surveillance Video - Store","Store camera shows suspect at 2:00 PM",https://example.com/videos/store_surveillance.mp4,40.7585,-73.9848,video,blue
-"Evidence Close-up","Item #45, found at scene",C:/Evidence/Photos/evidence_45.jpg,40.7589,-73.9851,image,orange
-"Aerial Photo","Drone footage overview of area",C:/Evidence/Photos/aerial_view.jpg,40.7590,-73.9850,camera,green
-"Vehicle Photo","Suspect vehicle captured on traffic cam",C:/Evidence/Photos/vehicle_plate.jpg,40.7592,-73.9853,camera,red
+Address,latitude,longitude,title,description,media_path,icon,color,date,time,datetime
+"123 Main Street, Springfield, IL",39.7817,-89.6501,Front Entrance Security Cam,File: front_entrance_cam.mp4 | Date: 2024-10-15 | Time: 08:30:45 | Size: 245.8 MB,Media/Security_Cameras/front_entrance_cam.mp4,video,blue,10/15/2024,8:30:45,10/15/2024 8:30
+"456 Oak Avenue, Chicago, IL",41.8781,-87.6298,Parking Lot Camera - North Side,File: parking_north.avi | Date: 2024-10-15 | Time: 09:15:22 | Size: 512.3 MB,Media/Parking_Cameras/parking_north.avi,camera,red,10/15/2024,9:15:22,10/15/2024 9:15
+"789 Elm Street, Peoria, IL",40.6936,-89.589,Evidence Photo - Scene Overview,File: scene_overview_001.jpg | Size: 4.2 MB | Modified: 2024-10-15,Media/Evidence_Photos/scene_overview_001.jpg,photo,green,10/15/2024,,10/15/2024
+"321 Pine Road, Bloomington, IL",40.4842,-88.9937,Body Camera Recording,File: bodycam_officer_12.mp4 | Date: 2024-10-15 | Time: 10:45:00 | Size: 892.1 MB,Media/Body_Cameras/bodycam_officer_12.mp4,video,orange,10/15/2024,10:45:00,10/15/2024 10:45
+"654 Maple Drive, Champaign, IL",40.1164,-88.2434,Witness Interview Video,File: witness_statement_01.mp4 | Date: 2024-10-16 | Time: 14:20:15,Media/Interviews/witness_statement_01.mp4,video,purple,10/16/2024,14:20:15,10/16/2024 14:20
+,,,Aerial Drone Footage,File: drone_overview.mp4 | Date: 2024-10-16 | Size: 1.2 GB,Media/Drone_Footage/drone_overview.mp4,video,darkblue,10/16/2024,,10/16/2024 11:00
+"987 Cedar Lane, Decatur, IL",39.8403,-88.9548,Traffic Camera - Intersection,File: traffic_cam_intersection.avi | Time: 07:55:30,Media/Traffic_Cameras/traffic_cam_intersection.avi,camera,lightblue,10/16/2024,7:55:30,10/16/2024 7:55
+"246 Birch Street, Rockford, IL",42.2711,-89.094,Store Surveillance - Entrance,File: store_entrance.mjp | Date: 2024-10-17 | Time: 16:10:00,Media/Store_Cameras/store_entrance.mjp,camera,pink,10/17/2024,16:10:00,10/17/2024 16:10
+,,,Evidence Photo - Item Recovery,File: evidence_item_045.jpg | Size: 3.8 MB,Media/Evidence_Photos/evidence_item_045.jpg,photo,orange,10/17/2024,,10/17/2024
+"135 Willow Court, Aurora, IL",41.7606,-88.3201,Dashboard Camera Footage,File: dashcam_unit_5.mp4 | Date: 2024-10-17 | Time: 18:22:10 | Size: 678.9 MB,Media/Dashboard_Cameras/dashcam_unit_5.mp4,video,red,10/17/2024,18:22:10,10/17/2024 18:22
