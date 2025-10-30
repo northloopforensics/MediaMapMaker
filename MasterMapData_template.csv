@@ -1,6 +1,21 @@
-Address,Latitude,Longitude,Accuracy,Date/Time,Icon,Description
-123 Main Street,31.407327,-89.136493,15.5,2024-07-02 07:18:47,ATT Location,GPS location from ATT tracking
-456 Oak Avenue,31.408500,-89.135000,25.0,2024-07-02 08:30:15,Ankle Monitor Fix,Ankle monitor location fix
-789 Pine Road,31.406000,-89.137500,18.2,2024-07-02 09:45:22,ATT Location,GPS location from ATT tracking
-321 Elm Street,31.409200,-89.134800,22.8,2024-07-02 10:15:33,Ankle Monitor Fix,Ankle monitor location fix
-654 Maple Drive,31.405500,-89.138200,12.3,2024-07-02 11:20:10,ATT Location,GPS location from ATT tracking
+Date,Time,Date-Time CST,Event,LATITUDE,LONGITUDE,ADDRESS,Subject,Source,File,ACCURACY IN METERS
+,,10/15/2024 8:15,GPS Module Location,41.878113,-87.629798,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,185
+,,10/15/2024 9:42,Ankle Monitor Fix,41.892345,-87.612456,,Subject Device A,Ankle Monitor,Monitor_Log_2024.txt,42
+,,10/15/2024 10:18,GPS Module Location,41.923678,-87.654321,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,95
+,,10/15/2024 11:05,GPS Module Location,41.845912,-87.689034,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,220
+,,10/15/2024 11:47,Ankle Monitor Fix,41.867234,-87.701245,,Subject Device A,Ankle Monitor,Monitor_Log_2024.txt,68
+,,10/15/2024 12:33,GPS Module Location,41.913456,-87.645123,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,155
+,,10/15/2024 13:21,Ankle Monitor Fix,41.896789,-87.678901,,Subject Device A,Ankle Monitor,Monitor_Log_2024.txt,31
+,,10/15/2024 14:08,GPS Module Location,41.831234,-87.695678,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,275
+,,10/16/2024 7:55,GPS Module Location,41.954321,-87.612345,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,112
+,,10/16/2024 9:12,Ankle Monitor Fix,41.876543,-87.634567,,Subject Device A,Ankle Monitor,Monitor_Log_2024.txt,58
+,,10/16/2024 10:38,GPS Module Location,41.902345,-87.66789,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,340
+,,10/16/2024 11:55,GPS Module Location,41.819876,-87.705432,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,198
+,,10/16/2024 13:24,Ankle Monitor Fix,41.888765,-87.623456,,Subject Device A,Ankle Monitor,Monitor_Log_2024.txt,85
+,,10/16/2024 14:41,GPS Module Location,41.935678,-87.681234,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,142
+,,10/17/2024 8:09,Ankle Monitor Fix,41.851234,-87.692345,,Subject Device A,Ankle Monitor,Monitor_Log_2024.txt,52
+,,10/17/2024 9:33,GPS Module Location,41.90789,-87.648765,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,265
+,,10/17/2024 10:56,GPS Module Location,41.872345,-87.715678,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,78
+,,10/17/2024 12:17,Ankle Monitor Fix,41.925678,-87.656789,,Subject Device A,Ankle Monitor,Monitor_Log_2024.txt,124
+,,10/17/2024 13:44,GPS Module Location,41.841234,-87.628901,,Vehicle GPS,GPS Module,Tracking_Report_001.txt,308
+,,10/17/2024 15:02,Ankle Monitor Fix,41.915432,-87.67321,,Subject Device A,Ankle Monitor,Monitor_Log_2024.txt,46
