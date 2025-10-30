@@ -1,6 +1,11 @@
 title,description,media_path,lat,lon,icon,color
 "Crime Scene - Entry Point","Forced entry, north door. Photo taken 10:45 AM on 10/27/2025",C:/Evidence/Photos/scene_entry.jpg,40.7589,-73.9851,camera,red
-"Crime Scene - Interior","Living room, evidence markers visible",C:/Evidence/Photos/scene_interior.jpg,40.7589,-73.9851,camera,red
+Address,latitude,longitude,title,description,media_path,icon,color,date,time
+"123 Main St, City, State",40.7128,-74.0060,"Front Door Camera","Security camera footage from front entrance","Media/Circle K Wiggins Video/Front Door.mjp",camera,blue,2024-07-02,07:18:47
+"456 Oak Ave, City, State",40.7580,-73.9855,"Backyard Photo","Photo of backyard area","Media/Body Camera Photos/backyard_001.jpg",photo,green,2024-07-02,08:30:15
+"789 Pine Rd, City, State",40.7489,-73.9680,"Store Video","Store surveillance video clip","Media/Taco Bell Video/store_view.mp4",video,red,2024-07-02,09:45:22
+"321 Elm St, City, State",40.7614,-73.9776,"Parking Lot Camera","Parking lot security footage","Media/Auto Plus Cameras/parking_cam_01.avi",camera,purple,2024-07-02,10:15:33
+"654 Maple Dr, City, State",40.7549,-73.9840,"Outdoor Scene","Photo of outdoor area","Media/417 S 11th Ave/Folder 1/images000/image_001.jpg",photo,orange,2024-07-02,11:20:10
 "Security Camera Footage","Shows suspect vehicle arrival at 2:30 PM",C:/Evidence/Videos/security_cam_main.mp4,40.7590,-73.9852,video,blue
 "Witness Photo","Provided by neighbor, timestamp 2:25 PM",C:/Evidence/Photos/witness_photo.jpg,40.7588,-73.9850,camera,orange
 "Exit Route Photo","Back alley, tire tracks visible",C:/Evidence/Photos/exit_route.jpg,40.7587,-73.9849,camera,red
